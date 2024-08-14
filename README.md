@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Web Developer Intern @Webspero Solutions<br>🤝 I am seeking guidance to enhance my skills as a developer, as I am committed to professional growth and excellence in my field.<br>🌱 I’m currently learning ReactJS<br>
+🔭 I’m currently working as Associate Web Developer @Webspero Solutions<br>🤝 I am seeking guidance to enhance my skills as a developer, as I am committed to professional growth and excellence in my field.<br>🌱 I’m currently learning ReactJS<br>
 
 
 ## 🌐 Socials:
